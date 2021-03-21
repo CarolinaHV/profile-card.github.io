@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](https://github.com/CarolinaHV/CarolinaHV.github.io/blob/main/images/profile_card.png)
+![](https://github.com/CarolinaHV/profile-card.github.io/blob/main/images/profile_card.png)
 
 Screenshot of my solution. 
 
