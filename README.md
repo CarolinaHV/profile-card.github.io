@@ -62,6 +62,6 @@ I think the part that was a bit difficult for me was in the positioning of some 
 
 ## Author
 
-- Website - [Carolina Hernandez Viveros](https://carolinahv.github.io/)
+- Website - [Carolina Hernandez Viveros](https://github.com/CarolinaHV/profile-card.github.io)
 - Frontend Mentor - [@CarolinaHV](https://www.frontendmentor.io/profile/CarolinaHV)
 - Twitter - [@KaritoHernandez](https://twitter.com/KaritoHernandez)
