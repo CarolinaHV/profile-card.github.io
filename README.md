@@ -32,7 +32,7 @@ Screenshot of my solution.
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/CarolinaHV/CarolinaHV.github.io)
-- Live Site URL: [CarolinaHV.github.io](https://carolinahv.github.io/)
+- Live Site URL: [CarolinaHV.github.io](https://carolinahv.github.io/profile-card.github.io/)
 
 ## My process
 
